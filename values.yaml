@@ -1,1 +1,2 @@
-abc: YWJj
+stringData:  
+  rabbitmqpassword: '<+secrets.getValue("testing")>'
