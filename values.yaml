@@ -1,2 +1,2 @@
 stringData:  
-  abc: '<+secrets.getValue("testing")>'
+  rabbitmqpassword: '<+secrets.getValue("testing")>'
